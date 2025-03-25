@@ -1,5 +1,5 @@
 # Comparison-on-Three-Supervised-Learning-Algorithms-for-Breast-Cancer-Classification
-Project CS649 Case Study
+CS649 Project (Case Study)
 
 ## Overview
 This project demonstrates the use of supervised machine learning models for classifying breast cancer tumors as malignant or benign. The study compares three algorithms: Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Random Forest (RF).
